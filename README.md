@@ -49,11 +49,11 @@ The per-cell results are stored in the struct array `valid_cells`.
 
 | Column | Name | Units / notes |
 |---|---|---|
-| 1 | X | Centroid x-position (pixels) |
-| 2 | Y | Centroid y-position (pixels) |
+| 1 | X | Centroid x-position |
+| 2 | Y | Centroid y-position |
 | 3 | Mass (pg) | Dry mass from QPI |
 | 4 | Time (h) | Time since start of imaging |
-| 5 | id | Unique cell ID (`cell + 1000 × location`) |
+| 5 | id | Unique cell ID  |
 | 6 | Area | Segmented cell area |
 | 7 | shape factor | Segmentation shape factor |
 | 8 | Location ID | Imaging location |
