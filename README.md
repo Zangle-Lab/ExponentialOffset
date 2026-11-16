@@ -21,7 +21,7 @@ Cell segmentation, mass measurement and tracking were performed with the QPI tra
 | File | Description |
 |---|---|
 | `ExponentialOffsetFitting.m` | Analysis script: filters tracks, fits both models, applies quality filters, and builds the per-cell results struct |
-| `Founder_tracks.mat` | Single-cell mass tracks (see [Data](#data)). [Hosted on Zenodo: DOI] |
+| `Founder_tracks.mat` | Single-cell mass tracks (see [Data](#data)). [Hosted on Zenodo: 10.5281/zenodo.24289669] |
 
 ## Requirements
 
